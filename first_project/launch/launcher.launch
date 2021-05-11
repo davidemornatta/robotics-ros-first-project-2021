@@ -1,3 +1,0 @@
-<launch>
-	<node pkg="first_project" type="odometry" name="odometry" />
-</launch>
